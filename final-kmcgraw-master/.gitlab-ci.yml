@@ -1,0 +1,10 @@
+asan1:
+    script: "/testers/cs24/final/asan1/test"
+asan2:
+    script: "/testers/cs24/final/asan2/test"
+asan3:
+    script: "/testers/cs24/final/asan3/test"
+asan4:
+    script: "/testers/cs24/final/asan4/test"
+asan5:
+    script: "/testers/cs24/final/asan5/test"
